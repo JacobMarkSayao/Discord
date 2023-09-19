@@ -1,0 +1,55 @@
+.text--dark {
+  color: #23272a;
+}
+
+.bg--dark {
+  background-color: #23272a;
+}
+
+.text--v {
+  color: #5865f2;
+}
+
+.bg--v {
+  background-color: #5865f2;
+}
+
+.text--v_dark {
+  color: #292841;
+}
+
+.bg--v_dark {
+  background-color: #292841;
+}
+
+.text--v_light {
+  color: #4564df;
+}
+
+.bg--v_light {
+  background-color: #4564df;
+}
+
+.text--align--start {
+  text-align: start;
+}
+
+.text--align--end {
+  text-align: end;
+}
+
+.text--align--justify {
+  text-align: justify;
+}
+
+.text--align--center {
+  text-align: center;
+}
+
+.text--align--left {
+  text-align: left;
+}
+
+.text--align--right {
+  text-align: right;
+}/*# sourceMappingURL=main.css.map */
